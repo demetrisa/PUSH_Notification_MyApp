@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>586323451195-rpjbvm9erdbfcub4sl64mpe24khasd92.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.586323451195-rpjbvm9erdbfcub4sl64mpe24khasd92</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlQte8D3XScSQRarntgVeqbbIbKKaIlKM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>586323451195</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oropay.demo</string>
+	<key>PROJECT_ID</key>
+	<string>oropay-demo-31837</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oropay-demo-31837.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:586323451195:ios:87beec2edda9d71fe32b1e</string>
+	<key>DATABASE_URL</key>
+	<string>https://oropay-demo-31837.firebaseio.com</string>
+</dict>
+</plist>
