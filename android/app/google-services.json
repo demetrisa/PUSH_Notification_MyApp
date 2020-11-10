@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586323451195",
+    "firebase_url": "https://oropay-demo-31837.firebaseio.com",
+    "project_id": "oropay-demo-31837",
+    "storage_bucket": "oropay-demo-31837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586323451195:android:abf456d39582b07fe32b1e",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586323451195-ja8vaq96pbmpr5n7dbcjhraf3f480psg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-DlsbO5phik84OYfd-3amcfQTxogZ3hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586323451195-ja8vaq96pbmpr5n7dbcjhraf3f480psg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586323451195-rpjbvm9erdbfcub4sl64mpe24khasd92.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oropay.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
